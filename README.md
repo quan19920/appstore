@@ -1,1 +1,1 @@
-this í app demo
+this is app demo and how to use git 
